@@ -43,6 +43,7 @@ public class FunctionMap {
 		setFunction("ceil", new Ceil());
 		setFunction("floor", new Floor());
 		setFunction("abs", new Abs());
+		setFunction("exp", new Exp());
 		
 		setFunction("sqrt", new Sqrt());
 		
